@@ -1,0 +1,29 @@
+/***************************tTAG SELECTORS**********************/
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+img:hover{
+background-color: violet;
+}
+
+body{
+  background-color:  #EAF6F6;
+}
+/***************************CLASS SELECTORS**********************/
+.Chicken{
+  background-color: pink;
+}
+
+.Yummy{
+  background-color: orange;
+}
+.Circular{
+  border-radius: 100%;
+}
+/***************************ID SELECTORS**********************/
+
+#heading{
+  color: blue;
+}
